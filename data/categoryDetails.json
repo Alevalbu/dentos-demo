@@ -1,0 +1,189 @@
+{
+    "name": "Popular",
+    "description": "This are the most popular items across all categories",
+    "icon": "Star",
+    "id": "1",
+    "items": [
+        {
+            "name": "Claude",
+            "description": "\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/claude.svg",
+            "id": "9936d697-1ede-4e84-9cfb-677d83b721d7",
+            "tags": [
+                "AI",
+                "Calendar",
+                "Collaboration",
+                "Communication",
+                "Course",
+                "Learning"
+            ]
+        },
+        {
+            "name": "Claude Cloud",
+            "description": "Customize your popular experience with flexible configuration options. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/claude-cloud.svg",
+            "id": "d33af033-c5c0-4c2c-989b-31e797a008bb",
+            "tags": [
+                "Code",
+                "Collaboration",
+                "Communication",
+                "Learning"
+            ]
+        },
+        {
+            "name": "Asana Team",
+            "description": "Collaborate on popular projects with distributed teams. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/asana-team.svg",
+            "id": "0dbabc9e-2a95-4f53-bb81-e1fcc364cdae",
+            "tags": [
+                "AI",
+                "Collaboration",
+                "Task"
+            ]
+        },
+        {
+            "name": "HubSpot",
+            "description": "Leverage advanced popular features to optimize your processes. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/hubspot.svg",
+            "id": "396b5382-beeb-4bef-8cc8-3a5b946f1d9c",
+            "tags": [
+                "Campaign",
+                "Collaboration",
+                "Productivity",
+                "Security",
+                "Social Media"
+            ]
+        },
+        {
+            "name": "Notion Team",
+            "description": "Manage popular resources efficiently with smart allocation tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/notion-team.svg",
+            "id": "5c35dc67-5b11-48e8-a3a4-6ee7a0289166",
+            "tags": [
+                "Collaboration",
+                "Email",
+                "Productivity",
+                "Sharing",
+                "Web"
+            ]
+        },
+        {
+            "name": "HubSpot Enterprise",
+            "description": "Connect with customers through multiple popular channels. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/hubspot-enterprise.svg",
+            "id": "4601288b-7aab-4b7f-97d7-5c337acff7b1",
+            "tags": [
+                "Collaboration",
+                "Dashboard",
+                "Neural Networks",
+                "Productivity",
+                "Social Media"
+            ]
+        },
+        {
+            "name": "Claude",
+            "description": "\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/claude.svg",
+            "id": "9161fedd-b6a7-4d42-b0e2-0dcdf1499201",
+            "tags": [
+                "AI",
+                "Calendar",
+                "Code",
+                "Collaboration",
+                "Communication"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "description": "Streamline your popular workflow with powerful integration capabilities. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/github.svg",
+            "id": "a047a98b-0bdc-4897-9937-ebe225d563f1",
+            "tags": [
+                "AI",
+                "Communication",
+                "Productivity"
+            ]
+        },
+        {
+            "name": "Notion Business",
+            "description": "Collaborate on popular projects with distributed teams. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/notion-business.svg",
+            "id": "1c4ef8c9-9ca6-44e6-9270-b9392633fbfc",
+            "tags": [
+                "Collaboration",
+                "Communication",
+                "Computer Vision",
+                "Pipeline",
+                "Visualization"
+            ]
+        },
+        {
+            "name": "HubSpot Lite",
+            "description": "Boost popular productivity with intuitive user interfaces. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/hubspot-lite.svg",
+            "id": "8daaedb7-1d01-4e11-aecb-453e05d5bb24",
+            "tags": [
+                "Collaboration",
+                "Communication",
+                "Learning"
+            ]
+        },
+        {
+            "name": "Stripe Lite",
+            "description": "Automate repetitive popular tasks and focus on what matters most. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/stripe-lite.svg",
+            "id": "94ec3e2a-159e-4c98-932c-63cf6bc88719",
+            "tags": [
+                "AI",
+                "Appointment",
+                "Collaboration",
+                "Productivity"
+            ]
+        },
+        {
+            "name": "Google Drive Pro",
+            "description": "Streamline your popular workflow with powerful integration capabilities. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/google-drive-pro.svg",
+            "id": "79f3fcf3-7eb2-444e-9ac0-da2a0b58d367",
+            "tags": [
+                "Collaboration",
+                "Communication",
+                "Integration"
+            ]
+        },
+        {
+            "name": "Claude Team",
+            "description": "Collaborate on popular projects with distributed teams. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/claude-team.svg",
+            "id": "32dc3707-d0d1-41b6-86ab-8f03c48c1e00",
+            "tags": [
+                "Collaboration",
+                "Free",
+                "NLP",
+                "Productivity"
+            ]
+        },
+        {
+            "name": "Zoom",
+            "description": "Accelerate popular growth with powerful tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/zoom.svg",
+            "id": "e78a1f3c-7f20-4724-968b-4534b1e5d53e",
+            "tags": [
+                "AI",
+                "Productivity",
+                "Workflow"
+            ]
+        },
+        {
+            "name": "Stripe",
+            "description": "Integrate with your existing popular tech stack effortlessly. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+            "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/stripe.svg",
+            "id": "9a20900a-b84d-44db-8032-f12f919f1b34",
+            "tags": [
+                "Collaboration",
+                "Communication",
+                "Visualization"
+            ]
+        }
+    ]
+}

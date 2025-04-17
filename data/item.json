@@ -1,0 +1,52 @@
+{
+    "name": "Notion Team",
+    "description": "Manage popular resources efficiently with smart allocation tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+    "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/notion-team.svg",
+    "id": "5c35dc67-5b11-48e8-a3a4-6ee7a0289166",
+    "category_id": "1",
+    "tags": [
+        "Collaboration",
+        "Email",
+        "Productivity",
+        "Sharing",
+        "Web"
+    ],
+    "downloads": 50989,
+    "active_users": 8442,
+    "version": "0.2.3",
+    "last_updated": "2025-01-29T13:18:21",
+    "auth_schemes": [
+        {
+            "name": "popular_api_key_auth",
+            "mode": "API_KEY",
+            "description": "API_KEY authentication for Popular applications"
+        }
+    ],
+    "actions": [
+        {
+            "name": "NOTION_TEAM_LIST_SETTINGS",
+            "description": "List settings using Notion Team"
+        },
+        {
+            "name": "NOTION_TEAM_GET_SETTINGS",
+            "description": "Get settings using Notion Team"
+        },
+        {
+            "name": "NOTION_TEAM_LIST_PROFILES",
+            "description": "List profiles using Notion Team"
+        },
+        {
+            "name": "NOTION_TEAM_UPDATE_SETTINGS",
+            "description": "Update settings using Notion Team"
+        },
+        {
+            "name": "NOTION_TEAM_UPDATE_SETTINGS",
+            "description": "Update settings using Notion Team"
+        },
+        {
+            "name": "NOTION_TEAM_GET_DATA",
+            "description": "Get data using Notion Team"
+        }
+    ],
+    "documentation_url": "https://docs.example.com/notion-team"
+}

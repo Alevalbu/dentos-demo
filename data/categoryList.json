@@ -1,0 +1,700 @@
+[
+    {
+        "id": "1",
+        "name": "Popular",
+        "description": "This are the most popular items across all categories",
+        "icon": "Star",
+        "item_count": 15,
+        "items": [
+            {
+                "id": "9936d697-1ede-4e84-9cfb-677d83b721d7",
+                "name": "Claude",
+                "description": "\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/claude.svg",
+                "tags": [
+                    "AI",
+                    "Calendar",
+                    "Collaboration",
+                    "Communication",
+                    "Course",
+                    "Learning"
+                ]
+            },
+            {
+                "id": "d33af033-c5c0-4c2c-989b-31e797a008bb",
+                "name": "Claude Cloud",
+                "description": "Customize your popular experience with flexible configuration options. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/claude-cloud.svg",
+                "tags": [
+                    "Code",
+                    "Collaboration",
+                    "Communication",
+                    "Learning"
+                ]
+            },
+            {
+                "id": "0dbabc9e-2a95-4f53-bb81-e1fcc364cdae",
+                "name": "Asana Team",
+                "description": "Collaborate on popular projects with distributed teams. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/asana-team.svg",
+                "tags": [
+                    "AI",
+                    "Collaboration",
+                    "Task"
+                ]
+            },
+            {
+                "id": "396b5382-beeb-4bef-8cc8-3a5b946f1d9c",
+                "name": "HubSpot",
+                "description": "Leverage advanced popular features to optimize your processes. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/hubspot.svg",
+                "tags": [
+                    "Campaign",
+                    "Collaboration",
+                    "Productivity",
+                    "Security",
+                    "Social Media"
+                ]
+            },
+            {
+                "id": "5c35dc67-5b11-48e8-a3a4-6ee7a0289166",
+                "name": "Notion Team",
+                "description": "Manage popular resources efficiently with smart allocation tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/notion-team.svg",
+                "tags": [
+                    "Collaboration",
+                    "Email",
+                    "Productivity",
+                    "Sharing",
+                    "Web"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "CRM",
+        "description": "Customer Relationship Management tools",
+        "icon": "Users",
+        "item_count": 20,
+        "items": [
+            {
+                "id": "91e2bb16-ad62-4b00-af07-a7ae499d6a17",
+                "name": "Monday Sales CRM Premium",
+                "description": "Leverage advanced crm features to optimize your processes. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/monday-sales-crm-premium.svg",
+                "tags": [
+                    "Customer",
+                    "Dashboard",
+                    "Data",
+                    "Lead",
+                    "Mobile"
+                ]
+            },
+            {
+                "id": "5b626410-9e01-422c-8af3-9a857dee3f6a",
+                "name": "Zendesk Sell Business",
+                "description": "Integrate with your existing crm tech stack effortlessly. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/zendesk-sell-business.svg",
+                "tags": [
+                    "Email",
+                    "Pipeline",
+                    "Project Management",
+                    "Sales"
+                ]
+            },
+            {
+                "id": "9ef49147-8132-4907-8680-97dfe1d38c2f",
+                "name": "Freshsales Cloud",
+                "description": "Scale your crm operations with enterprise-grade solutions. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/freshsales-cloud.svg",
+                "tags": [
+                    "Contact Management",
+                    "Email",
+                    "LMS",
+                    "Sales",
+                    "Sharing"
+                ]
+            },
+            {
+                "id": "31e7000f-e70e-4c4e-802a-04d3ad97c2c1",
+                "name": "NetSuite CRM",
+                "description": "Streamline your crm workflow with powerful integration capabilities. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/netsuite-crm.svg",
+                "tags": [
+                    "Customer",
+                    "Lead",
+                    "Premium",
+                    "Sharing"
+                ]
+            },
+            {
+                "id": "37b834fa-7155-4931-94a4-e63ac1806b59",
+                "name": "Agile CRM Team",
+                "description": "Manage crm resources efficiently with smart allocation tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/agile-crm-team.svg",
+                "tags": [
+                    "Contact Management",
+                    "Lead",
+                    "Productivity",
+                    "Sales",
+                    "Training"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Scheduling & Booking",
+        "description": "Tools for scheduling and booking appointments",
+        "icon": "Calendar",
+        "item_count": 14,
+        "items": [
+            {
+                "id": "e309d44b-3766-4b2d-96f9-ba18e811dc3d",
+                "name": "Calendly Pro",
+                "description": "Collaborate on scheduling projects with distributed teams. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/calendly-pro.svg",
+                "tags": [
+                    "Booking",
+                    "Calendar",
+                    "Course",
+                    "Mobile"
+                ]
+            },
+            {
+                "id": "b11f2741-1ca6-4957-ac66-8f4adccfaa90",
+                "name": "YouCanBookMe Business",
+                "description": "Automate scheduling deployment pipelines for faster releases. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/youcanbookme-business.svg",
+                "tags": [
+                    "Appointment",
+                    "Booking",
+                    "Dashboard",
+                    "Free"
+                ]
+            },
+            {
+                "id": "99d7e2ac-c56f-425a-be7b-8d262c918695",
+                "name": "Acuity Scheduling Business",
+                "description": "Build robust scheduling applications with developer-friendly APIs. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/acuity-scheduling-business.svg",
+                "tags": [
+                    "Booking",
+                    "Calendar",
+                    "Scheduling"
+                ]
+            },
+            {
+                "id": "4b96bdd9-2a0f-47d7-8b3c-3281996757ce",
+                "name": "SimplyBook.me Team",
+                "description": "Integrate with your existing scheduling tech stack effortlessly. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/simplybook.me-team.svg",
+                "tags": [
+                    "Computer Vision",
+                    "DevOps",
+                    "Education",
+                    "Scheduling",
+                    "Time Management"
+                ]
+            },
+            {
+                "id": "896e938a-71df-4127-a207-3d664ac22e75",
+                "name": "Acuity Scheduling",
+                "description": "Customize your scheduling experience with flexible configuration options. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/acuity-scheduling.svg",
+                "tags": [
+                    "API",
+                    "Appointment",
+                    "Scheduling",
+                    "Team"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Marketing & Social Media",
+        "description": "Marketing and social media management tools",
+        "icon": "Share2",
+        "item_count": 12,
+        "items": [
+            {
+                "id": "e95c6882-a7d5-415e-bbe0-26c694168faf",
+                "name": "Sprout Social",
+                "description": "Analyze marketing data trends to make informed business decisions. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/sprout-social.svg",
+                "tags": [
+                    "Analytics",
+                    "Customer",
+                    "Email",
+                    "Neural Networks"
+                ]
+            },
+            {
+                "id": "01e4a48b-4532-4c81-bd33-557142ca6815",
+                "name": "Marketo",
+                "description": "Automate repetitive marketing tasks and focus on what matters most. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/marketo.svg",
+                "tags": [
+                    "AI",
+                    "Document",
+                    "Email",
+                    "Marketing",
+                    "Team"
+                ]
+            },
+            {
+                "id": "03b26ab5-f156-4a13-b382-95f8b9068b47",
+                "name": "Marketo Plus",
+                "description": "Collaborate on marketing projects with distributed teams. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/marketo-plus.svg",
+                "tags": [
+                    "Campaign",
+                    "Course",
+                    "Enterprise",
+                    "Marketing",
+                    "Repository"
+                ]
+            },
+            {
+                "id": "31678ab2-be6f-4681-90af-ff26e065a99d",
+                "name": "Later",
+                "description": "Connect with customers through multiple marketing channels. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/later.svg",
+                "tags": [
+                    "Analytics",
+                    "Code",
+                    "Customer",
+                    "Email",
+                    "Integration"
+                ]
+            },
+            {
+                "id": "bbb71714-e3a5-4e21-8af1-eef7b20c7762",
+                "name": "Moz Business",
+                "description": "Accelerate marketing growth with powerful tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/moz-business.svg",
+                "tags": [
+                    "Campaign",
+                    "Education",
+                    "Productivity",
+                    "Social Media"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Productivity & Project Management",
+        "description": "Productivity and project management tools",
+        "icon": "Clipboard",
+        "item_count": 17,
+        "items": [
+            {
+                "id": "ec7e70fa-3ced-4dfd-b8c6-7ebd1cf8e4aa",
+                "name": "Jira",
+                "description": "Automate repetitive productivity tasks and focus on what matters most. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/jira.svg",
+                "tags": [
+                    "Document",
+                    "Team",
+                    "Workflow"
+                ]
+            },
+            {
+                "id": "406ba5e1-9a6d-4e26-9309-3de6a7bc6ab3",
+                "name": "Asana",
+                "description": "Ensure productivity reliability with comprehensive monitoring. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/asana.svg",
+                "tags": [
+                    "Collaboration",
+                    "File",
+                    "Task"
+                ]
+            },
+            {
+                "id": "40da62e8-1052-40f9-a8ea-4acc1f2f9b4d",
+                "name": "Airtable Enterprise",
+                "description": "Build robust productivity applications with developer-friendly APIs. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/airtable-enterprise.svg",
+                "tags": [
+                    "Analytics",
+                    "Appointment",
+                    "Repository",
+                    "Task",
+                    "Team"
+                ]
+            },
+            {
+                "id": "4d999760-0d04-4c85-a6bd-fd72f3956c54",
+                "name": "Monday.com Premium",
+                "description": "Simplify complex productivity workflows with guided assistance. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/monday.com-premium.svg",
+                "tags": [
+                    "Cloud",
+                    "Integration",
+                    "Project Management",
+                    "Scheduling",
+                    "Task"
+                ]
+            },
+            {
+                "id": "db00e94f-bdc8-4d93-97c9-481812372ab8",
+                "name": "Monday.com Team",
+                "description": "Boost productivity productivity with intuitive user interfaces. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/monday.com-team.svg",
+                "tags": [
+                    "Sales",
+                    "Task",
+                    "Workflow"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Developer Tools & DevOps",
+        "description": "Tools for developers and DevOps professionals",
+        "icon": "Code",
+        "item_count": 24,
+        "items": [
+            {
+                "id": "e271ef75-0127-4eb6-ad86-2db914e0fc23",
+                "name": "GitLab",
+                "description": "Connect with customers through multiple developer channels. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/gitlab.svg",
+                "tags": [
+                    "Code",
+                    "Repository",
+                    "Sharing"
+                ]
+            },
+            {
+                "id": "b45bb5a9-c1c4-49c9-abef-88d5380731ca",
+                "name": "VS Code",
+                "description": "Accelerate developer growth with powerful tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/vs-code.svg",
+                "tags": [
+                    "DevOps",
+                    "Enterprise",
+                    "Git"
+                ]
+            },
+            {
+                "id": "11ae5946-ed4b-4dbe-815f-258a232137d2",
+                "name": "Bitbucket",
+                "description": "Secure your developer information with industry-leading encryption. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/bitbucket.svg",
+                "tags": [
+                    "CI/CD",
+                    "Education",
+                    "Git"
+                ]
+            },
+            {
+                "id": "bd42b90d-633c-4739-a173-5d89215bec9d",
+                "name": "Jenkins Plus",
+                "description": "Analyze developer data trends to make informed business decisions. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/jenkins-plus.svg",
+                "tags": [
+                    "Code",
+                    "Git",
+                    "Premium"
+                ]
+            },
+            {
+                "id": "fd7e9658-8dc0-4c7d-9fe5-e7ba37a8e1e9",
+                "name": "GitLab Plus",
+                "description": "Build robust developer applications with developer-friendly APIs. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/gitlab-plus.svg",
+                "tags": [
+                    "CI/CD",
+                    "DevOps",
+                    "Machine Learning"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Analytics & Data",
+        "description": "Analytics and data processing tools",
+        "icon": "BarChart2",
+        "item_count": 15,
+        "items": [
+            {
+                "id": "5e3d09e2-c83e-431d-a532-dbec0d4f6378",
+                "name": "BigQuery Business",
+                "description": "Analyze analytics data trends to make informed business decisions. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/bigquery-business.svg",
+                "tags": [
+                    "Cloud",
+                    "Dashboard",
+                    "Data",
+                    "Premium",
+                    "Workflow"
+                ]
+            },
+            {
+                "id": "33ddd4e9-5ecf-41a8-8e77-452e4a75e700",
+                "name": "BigQuery Premium",
+                "description": "Boost analytics productivity with intuitive user interfaces. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/bigquery-premium.svg",
+                "tags": [
+                    "Analytics",
+                    "Dashboard",
+                    "Data",
+                    "Free"
+                ]
+            },
+            {
+                "id": "1d89596a-2f9e-4da0-b13c-285dc8cf73fa",
+                "name": "Segment Team",
+                "description": "Analyze analytics data trends to make informed business decisions. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/segment-team.svg",
+                "tags": [
+                    "CI/CD",
+                    "Customer",
+                    "Data",
+                    "Reporting",
+                    "Storage"
+                ]
+            },
+            {
+                "id": "36b98ea8-8209-4e30-bcd0-7a5ec48259b9",
+                "name": "Snowflake Team",
+                "description": "Secure your analytics information with industry-leading encryption. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/snowflake-team.svg",
+                "tags": [
+                    "Computer Vision",
+                    "Data",
+                    "Learning",
+                    "NLP",
+                    "Reporting"
+                ]
+            },
+            {
+                "id": "4647b431-f997-40a6-9642-38eb90ab4291",
+                "name": "Snowflake Plus",
+                "description": "Build robust analytics applications with developer-friendly APIs. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/snowflake-plus.svg",
+                "tags": [
+                    "CI/CD",
+                    "Collaboration",
+                    "Reporting",
+                    "Visualization"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "AI & Machine Learning",
+        "description": "AI and machine learning platforms and tools",
+        "icon": "Brain",
+        "item_count": 12,
+        "items": [
+            {
+                "id": "62f5d429-44f1-479b-9174-1f0cf1d7e1c6",
+                "name": "Hugging Face Premium",
+                "description": "Automate repetitive ai tasks and focus on what matters most. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/hugging-face-premium.svg",
+                "tags": [
+                    "Computer Vision",
+                    "Data",
+                    "Neural Networks",
+                    "Reporting"
+                ]
+            },
+            {
+                "id": "b70ccbc9-dc3e-48ef-b90c-dc4562d43d67",
+                "name": "Claude Cloud",
+                "description": "Secure your ai information with industry-leading encryption. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/claude-cloud.svg",
+                "tags": [
+                    "Computer Vision",
+                    "Dashboard",
+                    "Enterprise",
+                    "Neural Networks",
+                    "Sharing"
+                ]
+            },
+            {
+                "id": "80841afd-72d1-41de-b5a0-42fb65273ebe",
+                "name": "Anthropic Cloud",
+                "description": "Integrate with your existing ai tech stack effortlessly. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/anthropic-cloud.svg",
+                "tags": [
+                    "AI",
+                    "Automation",
+                    "Computer Vision",
+                    "NLP"
+                ]
+            },
+            {
+                "id": "5b756a9a-ce3e-4a75-85f9-e77eb0e18146",
+                "name": "GPT-4",
+                "description": "Enhance ai collaboration among team members with real-time updates. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/gpt-4.svg",
+                "tags": [
+                    "Calendar",
+                    "Cloud",
+                    "Course",
+                    "NLP",
+                    "Neural Networks"
+                ]
+            },
+            {
+                "id": "93cb28b9-28eb-48b3-b091-3504c8bbb776",
+                "name": "Hugging Face",
+                "description": "Scale your ai operations with enterprise-grade solutions. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/hugging-face.svg",
+                "tags": [
+                    "Education",
+                    "Learning",
+                    "Machine Learning",
+                    "NLP"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Education & LMS",
+        "description": "Education and Learning Management Systems",
+        "icon": "BookOpen",
+        "item_count": 18,
+        "items": [
+            {
+                "id": "e0bf674b-5f8d-4309-ae52-97fb0b0e36cc",
+                "name": "Thinkific Pro",
+                "description": "Secure your education information with industry-leading encryption. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/thinkific-pro.svg",
+                "tags": [
+                    "Data",
+                    "Learning",
+                    "Training"
+                ]
+            },
+            {
+                "id": "a6395957-84b3-482a-be08-86f6e594bcf1",
+                "name": "Moodle Lite",
+                "description": "Simplify complex education workflows with guided assistance. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/moodle-lite.svg",
+                "tags": [
+                    "Education",
+                    "Enterprise",
+                    "Learning",
+                    "Marketing"
+                ]
+            },
+            {
+                "id": "4a1f70de-e038-4171-aa14-607cffb0b3dd",
+                "name": "Udemy",
+                "description": "Manage education resources efficiently with smart allocation tools. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/udemy.svg",
+                "tags": [
+                    "Education",
+                    "Storage",
+                    "Training"
+                ]
+            },
+            {
+                "id": "76370b96-6ddc-4276-9526-c3c15bfa8f98",
+                "name": "Skillshare Team",
+                "description": "Ensure education reliability with comprehensive monitoring. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/skillshare-team.svg",
+                "tags": [
+                    "Education",
+                    "Learning",
+                    "Team",
+                    "Workflow"
+                ]
+            },
+            {
+                "id": "c81965ba-a890-40eb-93b6-d13cb383678c",
+                "name": "Moodle",
+                "description": "Track education performance metrics in real-time dashboards. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/moodle.svg",
+                "tags": [
+                    "Course",
+                    "LMS",
+                    "Pipeline"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Document & File Management",
+        "description": "Document and file management tools",
+        "icon": "File",
+        "item_count": 25,
+        "items": [
+            {
+                "id": "0552c008-572c-4dc8-8159-110c94d91115",
+                "name": "Google Drive Business",
+                "description": "Boost document productivity with intuitive user interfaces. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/google-drive-business.svg",
+                "tags": [
+                    "Booking",
+                    "Cloud",
+                    "DevOps",
+                    "Document",
+                    "Social Media"
+                ]
+            },
+            {
+                "id": "ead7cf07-6960-40ee-8755-a8609fa3734b",
+                "name": "Box",
+                "description": "Automate document deployment pipelines for faster releases. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/box.svg",
+                "tags": [
+                    "Contact Management",
+                    "Document",
+                    "File",
+                    "Marketing"
+                ]
+            },
+            {
+                "id": "54a690e2-4a67-4dc4-ba34-708023f20c63",
+                "name": "Coda Enterprise",
+                "description": "Connect with customers through multiple document channels. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/coda-enterprise.svg",
+                "tags": [
+                    "Cloud",
+                    "Document",
+                    "Project Management",
+                    "Reporting",
+                    "Training"
+                ]
+            },
+            {
+                "id": "be1e972c-d1c1-45bf-b2e2-f56c7b90854e",
+                "name": "Coda",
+                "description": "Streamline your document workflow with powerful integration capabilities. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/coda.svg",
+                "tags": [
+                    "Analytics",
+                    "Campaign",
+                    "Productivity",
+                    "Sharing",
+                    "Storage"
+                ]
+            },
+            {
+                "id": "d62127bb-6405-4cc1-bc77-6e523b85b19c",
+                "name": "Confluence Team",
+                "description": "Connect your document data across platforms for seamless operations. \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. \nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. \nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, \nvenenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. \nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, \nconsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. \nPhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. \nCurabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.\n",
+                "icon": "https://cdn.jsdelivr.net/gh/ComposioHQ/open-logos@master/confluence-team.svg",
+                "tags": [
+                    "Cloud",
+                    "Communication",
+                    "File",
+                    "Premium"
+                ]
+            }
+        ]
+    }
+]

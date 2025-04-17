@@ -1,0 +1,12 @@
+{
+   "categoryDetails": {
+    "name": "Claude",
+    "icon": "",
+    "description": "this is the code to integrate with Claude AI",
+    "total_views": 13876,
+    "active_users": 2309,
+    "version": "1.4.0",
+    "last_update": "date",
+    "category": "This is an integration with Claude AI"
+   }
+}
